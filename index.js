@@ -6,7 +6,7 @@ module.exports = function tinythen(obj, method, ...args) {
         resolve(thing);
       }
       if (!args.length) return obj[method](done);
-      obj[method](...arg, done);
+      obj[method](...args, done);
     }
   }
 }
