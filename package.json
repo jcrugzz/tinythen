@@ -1,6 +1,6 @@
 {
   "name": "tinythen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "make a thenable wrapper",
   "main": "index.js",
   "scripts": {
